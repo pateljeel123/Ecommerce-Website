@@ -17,12 +17,12 @@ function Navbar() {
                 <div className="container p-0 m-0 ">
                     <div className="text-center  ">
                         <div className="col-12 d-flex gap-4 justify-content-center">
-                            <h6 className="basic-1">HOME<FaAngleDown /></h6>
-                            <h6 className="basic-1">SHOP<FaAngleDown /></h6>
-                            <h6 className="basic-1">BLOG<FaAngleDown /></h6>
-                            <h6 className="basic-1">PORTFOLIO<FaAngleDown /></h6>
-                            <h6 className="basic-1">PAGE<FaAngleDown /></h6>
-                            <h6 className="basic-1">CONTECT<FaAngleDown /></h6>
+                            <Link to={"/"}> <h6 className="basic-1">HOME<FaAngleDown /></h6></Link>
+                            <Link to={"/shop"}><h6 className="basic-1 text-decoration-none">SHOP<FaAngleDown /></h6></Link>
+                            <Link to={"/blog"}><h6 className="basic-1">BLOG<FaAngleDown /></h6></Link>
+                            <Link to={"/portfolio"}><h6 className="basic-1">PORTFOLIO<FaAngleDown /></h6></Link>
+                            <Link to={"/page"}><h6 className="basic-1">PAGE<FaAngleDown /></h6></Link>
+                            <Link to={"/contect"}><h6 className="basic-1">CONTECT<FaAngleDown /></h6></Link>
                         </div>
 
                     </div>

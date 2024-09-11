@@ -4,6 +4,7 @@ import Slider from "../Components/Slider"
 function Home() {
   return (
     <div>
+      
       <Slider/>
       <Free/>
       

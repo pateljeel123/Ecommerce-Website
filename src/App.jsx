@@ -1,8 +1,8 @@
- import './App.css'
-import Free from './Components/Free'
+ import Allroutes from './Allroutes'
+import './App.css'
 import Navbar from './Components/Navbar'
-import Slider from './Components/Slider'
-import Home from './Page/Home'
+ 
+ 
 
 function App() {
  
@@ -10,7 +10,9 @@ function App() {
   return (
     <>
       <Navbar/>
-      <Home/>
+      <Allroutes/>
+       
+      
     </>
   )
 }

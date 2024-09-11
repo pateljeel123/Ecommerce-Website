@@ -1,0 +1,206 @@
+{
+  "products":[
+    {
+      "id": 1,
+      "img_src": "https://wphix.com/template/mazia/img/product/7.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/7-hover.jpg",
+      "category": "Shoes",
+      "subcategory": "Sneaker",
+      "target_audience": "Women",
+      "title": "Leather Courriere duffle bag",
+      "price": "$3.00"
+    },
+    {
+      "id": 2,
+      "img_src": "https://wphix.com/template/mazia/img/product/8.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/8-hover.jpg",
+      "category": "Shoes",
+      "subcategory": "Sneaker",
+      "title": "Wood design bedroom clook",
+      "price": "$45-$10.00"
+    },
+    {
+      "id": 3,
+      "img_src": "https://wphix.com/template/mazia/img/product/9.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/9-hover.jpg",
+      "category": "Woman",
+      "title": "Capitalize on low hanging fruit to",
+      "price": "$250.00"
+    },
+    {
+      "id": 4,
+      "img_src": "https://wphix.com/template/mazia/img/product/5.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/5-hover.jpg",
+      "category": "Woman",
+      "title": "Light green crewneck sweatshir",
+      "price": "$58.00"
+    },
+    {
+      "id": 5,
+      "img_src": "https://wphix.com/template/mazia/img/product/4.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/4-hover.jpg",
+      "category": "Woman",
+      "title": "Tassels Pendant Earrings",
+      "price": "$85.00"
+    },
+    {
+      "id": 6,
+      "img_src": "https://wphix.com/template/mazia/img/product/6.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/6-hover.jpg",
+      "category": "Handbag",
+      "subcategory": "Handbag",
+      "title": "Coating design lighting lamp",
+      "price": "$7.00"
+    },
+    {
+      "id": 7,
+      "img_src": "https://wphix.com/template/mazia/img/product/15.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/15-hover.jpg",
+      "category": "Woman",
+      "title": "Coating design dining lamp",
+      "price": "$3.00"
+    },
+    {
+      "id": 8,
+      "img_src": "https://wphix.com/template/mazia/img/product/16.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/16-hover.jpg",
+      "category": "Shoes",
+      "title": "Party Supplies Around Cupcake",
+      "price": "$250.00"
+    },
+    {
+      "id": 9,
+      "img_src": "https://wphix.com/template/mazia/img/product/12.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/12-hover.jpg",
+      "category": "Clothing",
+      "title": "Leather Supreme duffle bag",
+      "price": "$100.00"
+    },
+    {
+      "id": 10,
+      "img_src": "https://wphix.com/template/mazia/img/product/13.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/13-hover.jpg",
+      "category": "Woman",
+      "title": "Nari Narwhal Usb",
+      "price": "$250.00-$44.00"
+    },
+    {
+      "id": 11,
+      "img_src": "https://wphix.com/template/mazia/img/product/14.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/14-hover.jpg",
+      "category": "Kids",
+      "title": "Override the digital",
+      "price": "$3.00-$44.00"
+    },
+    {
+      "id": 12,
+      "img_src": "https://wphix.com/template/mazia/img/product/10.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/10-hover.jpg",
+      "category": "Sneaker",
+      "title": "Oliver Cat Full Body Mug",
+      "price": "$70.00"
+    },
+    {
+      "id": 13,
+      "img_src": "https://wphix.com/template/mazia/img/product/11.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/11-hover.jpg",
+      "category": "Sneaker",
+      "title": "Design Replica Organic Chair",
+      "price": "$90.00"
+    },
+    {
+      "id": 14,
+      "img_src": "https://wphix.com/template/mazia/img/product/17.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/17-hover.jpg",
+      "title": "Elodie Unicorn Ramen Bowl",
+      "price": "$250.00"
+    },
+    {
+      "id": 15,
+      "img_src": "https://wphix.com/template/mazia/img/product/5.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/5-hover.jpg",
+      "category": "Handbag",
+      "title": "Light green crewneck sweatshir",
+      "price": "$58.00"
+    },
+    {
+      "id": 16,
+      "img_src": "https://wphix.com/template/mazia/img/product/4.jpg",
+      "img_hover": "https://wphix.com/template/mazia/img/product/4-hover.jpg",
+      "category": "Handbag",
+      "title": "Tassels Pendant Earrings",
+      "price": "$85.00"
+    }
+  ],
+  
+    "blog": [
+      {
+        "id": 1,
+        "image": "https://wphix.com/template/mazia/img/blog/1.jpg",
+        "title": "Diam arcu, fringilla a sem condi cras",
+        "date": "10 Jun, 2019",
+        "posted_by": "admin",
+        "comments": "1 Comment(s)",
+        "description": "Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the…",
+        "category": "Travel",
+        "link": "Continue Reading"
+      },
+      {
+        "id": 2,
+        "image": "https://wphix.com/template/mazia/img/blog/2.jpg",
+        "title": "Celebrating Female Leadership",
+        "date": "15 Jul, 2019",
+        "posted_by": "admin",
+        "comments": "5 Comment(s)",
+        "description": "Taking the lead in celebrating female leadership in various fields. The story of innovation and persistence in overcoming challenges in business, technology, and more.",
+        "category": "Leadership",
+        "link": "Continue Reading"
+      },
+      {
+        "id": 3,
+        "image": "https://wphix.com/template/mazia/img/blog/3.jpg",
+        "title": "Praesent pretium tellus in to",
+        "date": "22 Aug, 2019",
+        "posted_by": "guest",
+        "comments": "3 Comment(s)",
+        "description": "A closer look at how modern digital marketing can enhance businesses. Discussing trends in email marketing, SEO, and content creation to drive conversions.",
+        "category": "Marketing",
+        "link": "Continue Reading"
+      },
+      {
+        "id": 4,
+        "image": "https://wphix.com/template/mazia/img/blog/2.jpg",
+        "title": "Cras diam arcu, fringilla a sem condi",
+        "date": "30 Sep, 2019",
+        "posted_by": "admin",
+        "comments": "4 Comment(s)",
+        "description": "Exploring the evolution of e-commerce platforms, and how businesses can leverage AI to improve customer engagement and satisfaction.",
+        "category": "E-commerce",
+        "link": "Continue Reading"
+      },
+      {
+        "id": 5,
+        "image": "https://wphix.com/template/mazia/img/blog/1.jpg",
+        "title": "Cras diam arcu, fringilla a sem condi",
+        "date": "12 Oct, 2019",
+        "posted_by": "admin",
+        "comments": "2 Comment(s)",
+        "description": "The rise of personalized marketing and its impact on brand loyalty and customer retention strategies.",
+        "category": "Branding",
+        "link": "Continue Reading"
+      },
+      {
+        "id": 6,
+        "image": "https://wphix.com/template/mazia/img/blog/1.jpg",
+        "title": "Praesent pretium tellus in to",
+        "date": "20 Nov, 2019",
+        "posted_by": "guest",
+        "comments": "6 Comment(s)",
+        "description": "How sustainable practices are reshaping the future of fashion and retail industries, with an emphasis on eco-friendly materials.",
+        "category": "Sustainability",
+        "link": "Continue Reading"
+      }
+    ]
+  }
+  
+  
